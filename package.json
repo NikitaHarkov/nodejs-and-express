@@ -1,0 +1,19 @@
+{
+  "name": "website-nodejs-express",
+  "version": "1.0.0",
+  "description": "Website with nodejs and express from scratch",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "website"
+  ],
+  "author": "Nikita Harkov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
